@@ -64,3 +64,5 @@ html,body{margin:0;padding:0;background:var(--bg);color:var(--text);font-family:
   border-color: #2d2d2d;  /* heller */
   border-width: 1,5px;      /* dicker */
 }
+id,timestamp,source_page,utm_source,utm_medium,utm_campaign,ip,user_agent,
+name,email,phone,company,message,consent,consent_timestamp,notes,status,owner
