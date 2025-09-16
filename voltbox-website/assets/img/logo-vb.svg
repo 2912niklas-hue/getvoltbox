@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120">
+  <defs>
+    <style>
+      .w{ fill:#ffffff; }
+      .k{ fill:#000000; }
+    </style>
+  </defs>
+  <!-- V -->
+  <path class="w" d="M20 30 L42 90 L56 90 L78 30 L64 30 L49 72 L34 30 Z"/>
+  <!-- B blocks -->
+  <path class="w" d="M84 30 h12 a18 18 0 0 1 0 36 h-12 Z"/>
+  <path class="w" d="M84 66 h12 a18 18 0 0 1 0 36 h-12 Z"/>
+  <!-- Lightning cutout -->
+  <path class="k" d="M95 44 L79 64 h12 l-16 24"/>
+</svg>
