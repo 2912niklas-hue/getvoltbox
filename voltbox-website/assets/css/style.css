@@ -54,3 +54,13 @@ html,body{margin:0;padding:0;background:var(--bg);color:var(--text);font-family:
   .mobile-menu{display:block;border-top:1px solid var(--line);padding:10px 18px}
   .mobile-menu a{display:block;padding:10px 0;color:#c4c4c7;text-decoration:none}
 }
+
+/* Trennlinien global anpassen */
+.header,
+.hero,
+.section,
+.card,
+.mobile-menu {
+  border-color: #2d2d2d;  /* heller */
+  border-width: 2px;      /* dicker */
+}
